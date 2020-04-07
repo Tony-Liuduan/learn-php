@@ -107,4 +107,8 @@ mysql.server stop
 2. 创建数据表table
     - PK 主键
     - NN 非空
+<<<<<<< HEAD
     - AI 自动增长
+=======
+    - AI 自动增长
+>>>>>>> 50a95209272d7829d1c2b3f3b261b20e14ef8e25
